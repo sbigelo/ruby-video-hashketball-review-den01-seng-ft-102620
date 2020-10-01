@@ -220,7 +220,7 @@ def big_shoe_rebounds
         big_shoe = key1[:shoe]
         rebounds = key1[:rebounds]
 
-
+end
 end
   end
   rebounds
