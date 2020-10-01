@@ -210,4 +210,16 @@ def player_stats(input)
   end
 end
 
+def big_shoe_rebounds(big)
+  game_hash.each do |key, value|
+
+binding.pry
+
+
+  end
+end
+
+
+
+
 
