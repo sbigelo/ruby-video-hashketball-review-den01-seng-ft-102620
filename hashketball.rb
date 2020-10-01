@@ -211,6 +211,9 @@ def player_stats(input)
 end
 
 def big_shoe_rebounds(big)
+ big_shoe = 0
+ rebounds = 0
+ 
   game_hash.each do |key, value|
     
 
